@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "News 1"
 layout: post
 ---
 
