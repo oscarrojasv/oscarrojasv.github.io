@@ -16,13 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
+  - {file: "oscarcv.pdf", title: "CV", icon: home}
   - {file: "README.md", title: "About me", icon: adress-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:oscar.rojas@utexas.edu"}
   - {title: Github, icon: github, url: "https://github.com/oscarrojasv"}
-  - {title: Facebok, icon: facebook, url: "facebook.com/oscarrojasvillarroel"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
