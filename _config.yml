@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "oscarcv.pdf", title: "CV"}
-  - {file: "_articles", title: "Articles"}
-  - {file: "blog.md", title: "Blog"}
+  - {file: "_articles", title: "Books"}
+  - {file: "blog.md", title: "Articles"}
   - {file: "_pictures", title: "Gallery"} 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
